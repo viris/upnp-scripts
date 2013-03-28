@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# Author          : Dejan Lukan (evangeline.eleanor@gmail.com)
+# Author          : Dejan Lukan (dejan.lukan@viris.si)
 # Disclosure Date : 16. March 2013
 #
 
