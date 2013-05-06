@@ -8,7 +8,7 @@ Scripts for UPnP penetration testing. The scripts that can be found in the repos
     and cause arbitrary code execution.
 
     SatUPnP.py
-    This script is similar to miranda.py script, but can do more, because it can also connect to
-    remote IPs and not just listen for local SSDP queries.
+    This script is similar to miranda.py script, but is also meant for testing UPnP devices 
+    on external IP addresses
 
 
