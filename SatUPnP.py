@@ -1,8 +1,8 @@
 #!/usr/bin/env python
-# This is UPnP pentesting program that can search for open 1900 UDP ports on arbitrary
+# This is an  UPnP pentesting program that can search for open 1900 UDP ports on arbitrary
 # external IP addresses or IP ranges. The difference between Miranda and this tool is
-# that Miranda can only search for UPnP devices on internal network, while this tool
-# doesn't have that limitation.
+# that Miranda searches for UPnP devices on internal network, while this tool is 
+# also meant for testing UPnP devices on external IP's. 
 #
 # Authors         : Danijel Grah  (danijel.grah@viris.si)
 # Disclosure Date : 16. March 2013
